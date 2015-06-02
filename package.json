@@ -1,0 +1,23 @@
+{
+  "name": "fbauth-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wzrd app.js"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "domify": "^1.3.3",
+    "firebase": "^2.2.6",
+    "hyperscript": "^1.4.6"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.3",
+    "wzrd": "^1.3.0"
+  }
+}
